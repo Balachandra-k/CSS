@@ -1,0 +1,60 @@
+.siva{
+    background-color: aqua;
+    border-radius:  15%;
+    
+    
+}
+.siva{
+    color: darkgoldenrod;
+}
+.balu1{
+    background-color: rgb(235, 11, 164);
+    height: 80px;
+
+}
+.balu1>img{
+    height: 80px;
+    background-color: chartreuse;
+}
+.balu1>ol>li{
+    display: inline-block;
+    padding: 5px;
+    color: azure;
+
+}
+.balu1>ol{
+    text-decoration: none;
+    float: right;
+}
+.balu1>ol>li>a{
+    color: aliceblue;
+    text-decoration: none;
+}
+.balu1>ol>li:hover a{
+    color: rgb(23, 2, 2);
+}
+
+.Dhoni{
+    background-image: url(../images/wp5632667.jpg);
+    height: 400px;
+    background-size: cover;
+    
+}
+.table{
+    background-color: darkseagreen;
+    
+}
+.Example{
+    background-image: url(../images/Image\ 1.jpg);
+    background-size:cover;
+    margin: 5px;
+    padding: 10px;
+}
+.Example2{
+    background-image:url(../images/Image\ 1.jpg);
+    background-size: cover;
+    margin: 40px;
+
+}
+
+
